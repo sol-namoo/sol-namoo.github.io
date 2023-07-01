@@ -1,20 +1,10 @@
-# Hydejack Starter Kit
+## sol-namoo's tech blog
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+매일 기록하는 주니어 개발자가 되기 위한 새 블로그 프로젝트입니다.
+jekyll 이용법을 익히는 데에서부터 출발합니다.
+기본 틀을 작성하는 중이며 아직 포스팅은 시작되지 않았습니다.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+### 다음의 내용을 업로드 할 예정입니다
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
-
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+- TLI: 매일의 공부 내용, 새로 알게 된 지식
+- projects: 토이 프로젝트 혹은 팀 프로젝트
