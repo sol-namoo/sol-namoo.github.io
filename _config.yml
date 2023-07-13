@@ -19,7 +19,7 @@ baseurl: ''
 lang: kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: sol-namoo's tech blog
+title: sol-namoo's blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
