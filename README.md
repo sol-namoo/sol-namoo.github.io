@@ -1,4 +1,4 @@
-## sol-namoo's tech blog
+## sol-namoo's blog
 
 매일 기록하는 주니어 개발자가 되기 위한 새 블로그 프로젝트입니다.
 jekyll 이용법을 익히는 데에서부터 출발합니다.
